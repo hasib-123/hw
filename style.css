@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 90%;
+    background-color: ;
+    margin: auto;
+    overflow: hidden;
+}
+.logo{
+    width: 20%;
+    background-color: ;
+    float: left;
+    margin-top: 30px;
+}
+.logo img{
+
+}
+.manu{
+    width: 50%;
+    background-color: ;
+    float: right;
+}
+.manu ul{
+    float: right;
+
+}
+.manu ul li{
+    float: left;
+    margin: 50px;
+    list-style: none;
+}
+.manu ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #b4ad9e;
+}
+
+.bannar{
+    width: 90%;
+    margin: auto;
+}
+.bannar img{
+    width: 100%;
+    margin: ;
+}
+.photodiary{
+    width: 80%;
+    margin: 50px auto;
+}
+.photodiary h3{
+    text-transform: uppercase;
+    color: #b4ad9e;
+    margin-bottom: 20px;
+}
+
+.photodiary h1{
+    text-transform: uppercase;
+    color: #626262;
+    margin-bottom: 20px;
+}
+.photodiary p{
+    color: #626262;
+    margin-bottom: 20px;
+}
+.photodiary a{
+    text-transform: uppercase;
+    color: #b4ad9e;
+    text-decoration: none;
+}
